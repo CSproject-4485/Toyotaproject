@@ -1,6 +1,6 @@
 # Toyota PDF Invoice Analyzer
 
-[Toyota Project Description Slideshow](Toyotaproject/Toyota Financial Services - Vendor Cost Data Standardization.pdf)
+[Toyota Project Description Slideshow](https://github.com/CSproject-4485/Toyotaproject/blob/main/Toyota%20Financial%20Services%20-%20Vendor%20Cost%20Data%20Standardization.pdf)
 
 Toyota receives thousands of PDFs in an email format. These invoices can be from many different sources including service stations, cleaning services, vehicle repair shops and so on. There is no way to standardize this data currently and get a cost breakdown of what services are provided and how much a car costs in a month. 
 
