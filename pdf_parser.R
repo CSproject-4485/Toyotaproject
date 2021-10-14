@@ -31,3 +31,4 @@ for (files in 1:length(pdf_folder)) # Loop through all the pdfs in the pdf folde
     write(unlist(file_read), converted_file_destination)
   }
 }
+#Control heads back to the main window

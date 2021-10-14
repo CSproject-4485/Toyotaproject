@@ -18,6 +18,8 @@ def select_folder():
    print("Rscript pdf_parser.r "+path)
    
    subprocess.call("Rscript pdf_parser.r "+path, shell=True)
+   #At this point the pdfs have been converted to text and control comes back
+   subprocess.call("python3 extract_data.py "+path, shell=True)
    sys.exit()
    
 #Create a label and a Button to Open the dialog
