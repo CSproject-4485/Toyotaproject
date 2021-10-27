@@ -1,0 +1,193 @@
+CUSTOMER #: 73810                                                                                                   692589
+                                                                                                                                                                      of Santa Barbara
+                                                                                                                  *INVOICE*                                 5611 Hollister Ave. · Goleta, California 93117
+KINTO SHARE                                                                                                                                    Phone (805) 967-5611 · Service (805) 683-2593 · Fax (805) 967-3732
+                                                                                                                                                                   www.toyotaofsantabarbara.com
+CA 93117                                                                                                               PAGE 1                                    Service and Parts Department Hours
+                                                                                                                                                           Monday through Friday: 7:00 A.M. to 6:00 P.M.
+                                                                                                                                                                Saturday: 7:30 A.M. to 5:00 P.M.
+HOME:805-967-5611 CONT:805-967-5611
+BUS:              CELL:                                                                                     SERVICE ADVISOR: 7503 RACHEL MASEDA
+         COLOR                    YEAR                       MAKE/MODEL                                                  VIN                           LICENSE               MILEAGE IN / OUT                 TAG
+
+Blue                                14           TOYOTA PRIUS                                           JTDKN3DU7E1804919 8BJV965                                        123925/123926 4KINTO
+      DEL. DATE                  PROD. DATE                  WARR. EXP.                  PROMISED                           PO NO.                    RATE              PAYMENT                     INV. DATE
+
+01JAN14 DD                                                                        17:00 03MAY21                                                                        CASH                   03MAY21
+            R.O. OPENED                                           READY              OPTIONS: DLR:4150
+08:56 29APR21 14:42 03MAY21
+LINE OPCODE TECH TYPE HOURS                               LIST       NET                                                                                                                              TOTAL
+A *Mount and balance one new tire DT00738289GY
+     TIRE1 *Mount and balance one new tire
+          DT00738289GY
+             976 CANI                                              25.00                                                                                                                            25.00
+        1 DT000-48163-GY P195/65R15                     108.00     92.00                                                                                                                            92.00
+        1 HT TIRE DISPOSAL                                2.75      2.75                                                                                                                             2.75
+        1 TT TIRE TAX                                     1.75      1.75                                                                                                                             1.75
+        1 WW WHEEL WEIGHT                                 1.50      1.50                                                                                                                             1.50
+PARTS:     98.00 LABOR:      25.00 OTHER:       0.00   TOTAL LINE A:                                                                                                                               123.00
+ 123925 Mounted and balanced one tire
+             ****************************************************
+B Interior Detail. Wash exterior. Vacuum and detail interior. Cars -
+        $159.95, Trucks/Vans/SUVs - $239.95. Additional cost for
+        exceptional dirty vehicles.
+     INTDETAIL Interior Detail. Wash exterior. Vacuum
+          and detail interior. Cars - $159.95,
+          Trucks/Vans/SUVs - $239.95. Additional cost
+          for exceptional dirty vehicles.
+             976 CANI                                             159.95                                                                                                                           159.95
+PARTS:      0.00 LABOR:     159.95 OTHER:       0.00   TOTAL LINE B:                                                                                                                               159.95
+             ****************************************************
+C COMPLIMENTARY MULTI-POINT INSPECTION - SOME ITEMS MAY NOT BE
+        INSPECTED DEPENDING ON WORK PERFORMED AND CONFIGURATION
+     CLMPI COMPLIMENTARY MULTI-POINT INSPECTION - SOME
+          ITEMS MAY NOT BE INSPECTED DEPENDING ON WORK
+          PERFORMED AND CONFIGURATION
+             976 CANI                                               0.00                                                                                                                                0.00
+PARTS:      0.00 LABOR:       0.00 OTHER:       0.00   TOTAL LINE C:                                                                                                                                    0.00
+ 123925 Performed multi-point inspection per request.
+             ****************************************************
+D CHECK TIRE PRESSURES AND INFLATE CHECK TIRE PRESSURES AND INFLATE
+        EACH TIRE TO THE VEHICLES MANUFACTURER'S RECOMMENDED TIRE
+        PRESSURE RATING. - AFTER WHEEL REMOVAL/INSTALLATION WHEELS MUST
+        BE RETORQUED AFTER 100 MILES
+Scan here to schedule or change your                      By signing below, you acknowledge that you were notified of and authorized                         DESCRIPTION                             TOTALS
+next appointment                                          the Dealership to perform the services/repairs itemized in this Invoice and
+                                                          that you received (or had the opportunity to inspect) any replaced parts as                  LABOR AMOUNT
+                                                          requested by you.                                                                            PARTS AMOUNT
+                                                          I acknowledge receipt of this invoice and keys to the vehicle described on this invoice.     GAS, OIL, LUBE
+                                                                                                                                                       SUBLET AMOUNT
+                                                          X ____________________________________________________________________
+                                                                                                                                                       HAZARDOUS WASTE FEE
+                                                          ALL PARTS ARE NEW UNLESS OTHERWISE INDICATED.                                                TOTAL CHARGES
+                                                          I acknowledge notice and oral approval of an increase in the original estimated price.       LESS INSURANCE
+                                                                                                                                                       SALES TAX
+                                   X ____________________________________________________________________
+Your next appointment is scheduled                                                                     PLEASE PAY
+on                                 Please see back for glossary of abbreviations.                      THIS AMOUNT
+
+                                  NOTICE
+Date _______________________________                                     TO CONSUMER: PLEASE READ IMPORTANT INFORMATION ON THE BACK
+Time _______________________________                                                                                                                 BAR REG# ARD078672                    EPA # CAD981569866
+Copyright 2014 CDK Global, LLC SERVICE INVOICE TYPE 2 - SI2C - IMAGING                              CUSTOMER COPY
+
+CUSTOMER #: 73810                                                                                                   692589
+                                                                                                                                                                      of Santa Barbara
+                                                                                                                  *INVOICE*                                 5611 Hollister Ave. · Goleta, California 93117
+KINTO SHARE                                                                                                                                    Phone (805) 967-5611 · Service (805) 683-2593 · Fax (805) 967-3732
+                                                                                                                                                                   www.toyotaofsantabarbara.com
+CA 93117                                                                                                               PAGE 2                                    Service and Parts Department Hours
+                                                                                                                                                           Monday through Friday: 7:00 A.M. to 6:00 P.M.
+                                                                                                                                                                Saturday: 7:30 A.M. to 5:00 P.M.
+HOME:805-967-5611 CONT:805-967-5611
+BUS:              CELL:                                                                                     SERVICE ADVISOR: 7503 RACHEL MASEDA
+         COLOR                    YEAR                       MAKE/MODEL                                                  VIN                           LICENSE               MILEAGE IN / OUT                 TAG
+
+Blue                                14           TOYOTA PRIUS                                           JTDKN3DU7E1804919 8BJV965                                        123925/123926 4KINTO
+      DEL. DATE                  PROD. DATE                  WARR. EXP.                  PROMISED                           PO NO.                    RATE              PAYMENT                     INV. DATE
+
+01JAN14 DD                                                                        17:00 03MAY21                                                                        CASH                   03MAY21
+            R.O. OPENED                                           READY              OPTIONS: DLR:4150
+08:56 29APR21 14:42 03MAY21
+LINE OPCODE TECH TYPE HOURS                                LIST       NET                                                                                                                             TOTAL
+     TIREPSI CHECK TIRE PRESSURES AND INFLATE CHECK
+           TIRE PRESSURES AND INFLATE EACH TIRE TO THE
+           VEHICLES MANUFACTURER'S RECOMMENDED TIRE
+           PRESSURE RATING. - AFTER WHEEL
+           REMOVAL/INSTALLATION WHEELS MUST BE
+           RETORQUED AFTER 100 MILES
+              976 CANI                                              0.00                                                                                                                                0.00
+PARTS:       0.00 LABOR:       0.00 OTHER:       0.00   TOTAL LINE D:                                                                                                                                   0.00
+ 123925
+ Set tire PSI to
+ Front:35
+ Rear:33
+              ****************************************************
+E FLOOR MAT POLICY: ALL DRIVERS SIDE FLOOR MATS THAT ARE NOT SECURE,
+         DOUBLE STACKED OR INTERFERE WITH VEHICLES PEDAL OPERATION
+         SHOULD BE PROPERLY SECURED OR REMOVED AND PLACED IN THE VEHICLE
+         TRUNK. PLEASE DOCUMENT APPROPIATE ACTION IN 'CORRECTION' .
+     C01MAT FLOOR MAT POLICY: ALL DRIVERS SIDE FLOOR
+           MATS THAT ARE NOT SECURE, DOUBLE STACKED OR
+           INTERFERE WITH VEHICLES PEDAL OPERATION
+           SHOULD BE PROPERLY SECURED OR REMOVED AND
+           PLACED IN THE VEHICLE TRUNK. PLEASE DOCUMENT
+           APPROPIATE ACTION IN 'CORRECTION' .
+              976 CANI                                              0.00                                                                                                                                0.00
+PARTS:       0.00 LABOR:       0.00 OTHER:       0.00   TOTAL LINE E:                                                                                                                                   0.00
+ 123925 Inspected floormat. Found to have correct floormat, properly
+ installed.
+              ****************************************************
+EST: 282.95          03MAY21 07:48 SA: 7503
+   CONTACT:
+************************************************
+
+Scan here to schedule or change your                      By signing below, you acknowledge that you were notified of and authorized                         DESCRIPTION                             TOTALS
+next appointment                                          the Dealership to perform the services/repairs itemized in this Invoice and
+                                                          that you received (or had the opportunity to inspect) any replaced parts as                  LABOR AMOUNT
+                                                          requested by you.                                                                            PARTS AMOUNT
+                                                          I acknowledge receipt of this invoice and keys to the vehicle described on this invoice.     GAS, OIL, LUBE
+                                                                                                                                                       SUBLET AMOUNT
+                                                          X ____________________________________________________________________
+                                                                                                                                                       HAZARDOUS WASTE FEE
+                                                          ALL PARTS ARE NEW UNLESS OTHERWISE INDICATED.                                                TOTAL CHARGES
+                                                          I acknowledge notice and oral approval of an increase in the original estimated price.       LESS INSURANCE
+                                                                                                                                                       SALES TAX
+                                   X ____________________________________________________________________
+Your next appointment is scheduled                                                                     PLEASE PAY
+on                                 Please see back for glossary of abbreviations.                      THIS AMOUNT
+
+                                  NOTICE
+Date _______________________________                                     TO CONSUMER: PLEASE READ IMPORTANT INFORMATION ON THE BACK
+Time _______________________________                                                                                                                 BAR REG# ARD078672                    EPA # CAD981569866
+Copyright 2014 CDK Global, LLC SERVICE INVOICE TYPE 2 - SI2C - IMAGING                              CUSTOMER COPY
+
+CUSTOMER #: 73810                                                                                                   692589
+                                                                                                                                                                      of Santa Barbara
+                                                                                                                  *INVOICE*                                 5611 Hollister Ave. · Goleta, California 93117
+KINTO SHARE                                                                                                                                    Phone (805) 967-5611 · Service (805) 683-2593 · Fax (805) 967-3732
+                                                                                                                                                                   www.toyotaofsantabarbara.com
+CA 93117                                                                                                               PAGE 3                                    Service and Parts Department Hours
+                                                                                                                                                           Monday through Friday: 7:00 A.M. to 6:00 P.M.
+                                                                                                                                                                Saturday: 7:30 A.M. to 5:00 P.M.
+HOME:805-967-5611 CONT:805-967-5611
+BUS:              CELL:                                                                                     SERVICE ADVISOR: 7503 RACHEL MASEDA
+         COLOR                    YEAR                       MAKE/MODEL                                                  VIN                           LICENSE               MILEAGE IN / OUT                 TAG
+
+Blue                                14           TOYOTA PRIUS                                           JTDKN3DU7E1804919 8BJV965                                        123925/123926 4KINTO
+      DEL. DATE                  PROD. DATE                  WARR. EXP.                  PROMISED                           PO NO.                    RATE              PAYMENT                     INV. DATE
+
+01JAN14 DD                                                                        17:00 03MAY21                                                                        CASH                   03MAY21
+            R.O. OPENED                                           READY              OPTIONS: DLR:4150
+08:56 29APR21 14:42 03MAY21
+LINE OPCODE TECH TYPE HOURS                                                                                              LIST      NET    TOTAL
+                                                                                                 THANK YOU FOR CHOOSING TOYOTA OF SANTA
+                                                                                                 BARBARA. All parts installed are new unless
+                                                                                                 otherwise specified.
+                                                                                                 --------------------------------------------
+                                                                                                               JOIN OUR VIP CLUB
+                                                                                                          TEXT "TOYOTAVIP18" TO 37483
+                                                                                                       FOR EXCLUSIVE OFFERS AND SPECIALS!
+
+
+
+
+Scan here to schedule or change your                      By signing below, you acknowledge that you were notified of and authorized                         DESCRIPTION                             TOTALS
+next appointment                                          the Dealership to perform the services/repairs itemized in this Invoice and
+                                                          that you received (or had the opportunity to inspect) any replaced parts as                  LABOR AMOUNT                                184.95
+                                                          requested by you.                                                                            PARTS AMOUNT                                 98.00
+                                                          I acknowledge receipt of this invoice and keys to the vehicle described on this invoice.     GAS, OIL, LUBE                                0.00
+                                                          X ____________________________________________________________________
+                                                                                                                                                       SUBLET AMOUNT                                 0.00
+                                                                                                                                                       HAZARDOUS WASTE FEE                           0.00
+                                                          ALL PARTS ARE NEW UNLESS OTHERWISE INDICATED.                                                TOTAL CHARGES                               282.95
+                                                          I acknowledge notice and oral approval of an increase in the original estimated price.       LESS INSURANCE                                0.00
+                                   X ____________________________________________________________________
+                                                                                                                                                       SALES TAX                                     7.25
+Your next appointment is scheduled                                                                     PLEASE PAY
+on                                 Please see back for glossary of abbreviations.                      THIS AMOUNT                                                                                 290.20
+                                  NOTICE
+Date _______________________________                                     TO CONSUMER: PLEASE READ IMPORTANT INFORMATION ON THE BACK
+Time _______________________________                                                                                                                 BAR REG# ARD078672                    EPA # CAD981569866
+Copyright 2014 CDK Global, LLC SERVICE INVOICE TYPE 2 - SI2C - IMAGING                              CUSTOMER COPY
+

@@ -1,0 +1,218 @@
+                                                                                                                                  TOYOTA · SCION
+CUSTOMER #: 527471                                                                         902589                                      OF
+UNIT# 854                                                                                                                           GLENDALE
+                                                                                        ACCOUNTING
+KINTO SHARE # 854                                                                                                       1260 S. Brand Blvd · Glendale, California 91204
+                                                                                                                           (818) 244-4196 · FAX (818) 241-5771
+1260 S BRAND BL                                                                                                                  www.ToyotaofGlendale.com
+GLENDALE, CA 91204                                                                           PAGE 1                               www.ScionofGlendale.com
+HOME:818-244-4196 CONT:818-244-4196                                                                                      BAR# AJ201469             EPA# CAD981441975
+BUS:               CELL:                                                            SERVICE ADVISOR: 459 PETER ATMAJIAN
+         COLOR                     YEAR               MAKE/MODEL                                VIN                           LICENSE          MILEAGE IN / OUT       TAG
+
+                                     18          TOYOTA CAMRY HYBRID               4T1B21HK6JU507893 8DQB783                                   23336/23338          T2638
+      DEL. DATE                    PROD. DATE         WARR. EXP.      PROMISED                     PO NO.                    RATE          PAYMENT           INV. DATE
+
+28MAY18 DD                                                         19:00 30SEP21                                             165.00       TEC            13SEP21
+             R.O. OPENED                                READY         OPTIONS: ENG:2.5_Liter
+11:28 20AUG21 10:27 13SEP21
+LINE OPCODE TECH TYPE A/HRS S/HRS                      LIST          NET                                                                                              TOTAL
+A SUBLET REPAIRS AS DESCRIBED BELOW. GLENDALE AUTO BODY FOR BODY
+        REPAIRS.
+     SUB SUBLET REPAIRS AS DESCRIBED BELOW.
+             992    CT 0.00 0.00        0       0                   0.00                                                                                          0.00
+SUBL GLENDALE AUTO BODY
+                    CT            100000 100000                  1000.00                                                                                  1000.00
+ VERSION 1 (EMP# 459,13SEP21 10:18): 0 SENT VEHICLE TO GLENDALE AUTO
+ BODY. INV # 24403... AMOUNT $ 2983.84... KINTO TO PAY DEDUCTIBLE $
+ 1000.00, INSURANCE PAID THE BALANCE TO GLENDALE AUTO BODY.
+B PLEASE INSPECT INTERIOR AND REPORT.
+     MA1 MAINTENANCE
+             404 CTEC 6.50 2.00     2400    33000                 330.00                                                                                    330.00
+        1 42603-06160 ORNAMENT
+        SUB-ASSY, W                 1342     2229    0   22.32     22.29                                                                                     22.29
+        2 93567-55020 SCREW,
+        TAPPING                       138     230    0    1.15      1.15                                                                                          2.30
+ VERSION 1 (EMP# 459,13SEP21 10:21): 0 REINSTALLED ALL REMOVED
+ PLASTIC COVERS, REMOVED LEFT REAR DOOR PANEL, POSITIONED LOCK CABLES,
+ INSPECTED ALL WINDOW AND LOCK OPERATIONS
+C PERFORM MULTI-POINT INSPECTION. INSPECT, ADJUST TO FACTORY
+        SPECIFICATION AND DOCUMENT ALL TIRE PRESSURES.
+CAUSE: PERFORMED VEHICLE MULTI POINT INSPECTION AND SAFETY CHECK
+     MPI PERFORM MULTI-POINT INSPECTION. INSPECT,
+          ADJUST TO FACTORY SPECIFICATION AND DOCUMENT
+          ALL TIRE PRESSURES.
+             404    CT 0.00 0.00        0       0                   0.00                                                                                          0.00
+ VERSION 1 (EMP# 404,21AUG21 08:33): 0 PERFORMED VEHICLE MULTI POINT
+ INSPECTION AND INSPECT, ADJUST PRESSURE TO FACTORY SPECIFICATION AND
+ DOCUMENT FINAL PRESSURE. ***** TIRE TREAD DEPTH: LF___/32, RF___/32,
+ LR___/32, RR___/32 **** BRAKE LININGS: FRONT___MM, REAR___MM ****
+ INFLATE TIRE PRESSURE TO FACTORY SPECIFICATIONS: FRONT ___ PSI, REAR
+ ___ PSI.
+D INSP & INFLATE TIRE PRESS TO FACT. SPECIFICATIONS: RH FR ___ psi LH
+        FR ___ psi RH RR ___psi LH RR ___ psi
+                               HOURS                                                 STATEMENT OF DISCLAIMER                        DESCRIPTION              TOTALS
+              OPEN 7:00AM - 10:00PM MONDAY - FRIDAY
+                                                                                     The factory warranty constitutes all     LABOR AMOUNT
+                    SATURDAY 8:00AM - 5:00PM                                         of the warranties with respect to
+  ON BEHALF OF SERVICING DEALER, I HEREBY CERTIFY THAT THE                           the sale of this item\items. The         PARTS AMOUNT
+                                                                                     Seller hereby expressly disclaims all
+  INFORMATION CONTAINED HEREON IS ACCURATE UNLESS OTHERWISE                          warranties     either   express   or     GAS, OIL, LUBE
+  SHOWN. SERVICES DESCRIBED WERE PERFORMED AT NO CHARGE TO                           implied, including any implied
+  OWNER. THERE WAS NO INDICATION FROM THE APPEARANCE OF THE                          warranty of merchantability or           SUBLET AMOUNT
+  VEHICLE OR OTHERWISE, THAT ANY PART REPAIRED OR REPLACED                           fitness for a particular purpose.        MISC. CHARGES
+  UNDER THIS CLAIM HAD BEEN CONNECTED IN ANY WAY WITH ANY                            Seller    neither     assumes    nor
+                                                                                     authorizes any other person to           TOTAL CHARGES
+  ACCIDENT, NEGLIGENCEOR MISUSE. RECORDSSUPPORTING THIS CLAIM                        assume for it any liability in
+  ARE AVAILABLE FOR (1) YEAR FROM THE DATE OF PAYMENT                                connection with the sale of this         LESS INSURANCE
+  NOTIFICATION AT THE SERVICING DEALER FOR INSPECTION BY                             item/items.
+  MANUFACTURER'S REPRESENTATIVE.                                                                                              SALES TAX
+                                                                                     CUSTOMER SIGNATURE
+                                                                                                                              PLEASE PAY
+      (SIGNED)             DEALER, GENERAL MANAGER OR AUTHORIZED PERSON   (DATE)                                              THIS AMOUNT
+
+
+
+Copyright 2000 ADP, Inc.   SERVICE INVOICE #2 XSI2C                       ACCOUNTING COPY
+
+                                                                                                                                  TOYOTA · SCION
+CUSTOMER #: 527471                                                                         902589                                      OF
+UNIT# 854                                                                                                                           GLENDALE
+                                                                                        ACCOUNTING
+KINTO SHARE # 854                                                                                                       1260 S. Brand Blvd · Glendale, California 91204
+                                                                                                                           (818) 244-4196 · FAX (818) 241-5771
+1260 S BRAND BL                                                                                                                  www.ToyotaofGlendale.com
+GLENDALE, CA 91204                                                                           PAGE 2                               www.ScionofGlendale.com
+HOME:818-244-4196 CONT:818-244-4196                                                                                      BAR# AJ201469             EPA# CAD981441975
+BUS:               CELL:                                                            SERVICE ADVISOR: 459 PETER ATMAJIAN
+         COLOR                     YEAR               MAKE/MODEL                                VIN                           LICENSE          MILEAGE IN / OUT       TAG
+
+                                     18          TOYOTA CAMRY HYBRID               4T1B21HK6JU507893 8DQB783                                   23336/23338        T2638
+      DEL. DATE                    PROD. DATE         WARR. EXP.      PROMISED                     PO NO.                    RATE          PAYMENT           INV. DATE
+
+28MAY18 DD                                                         19:00 30SEP21                                             165.00       TEC            13SEP21
+             R.O. OPENED                                READY         OPTIONS: ENG:2.5_Liter
+11:28 20AUG21 10:27 13SEP21
+LINE OPCODE TECH TYPE A/HRS S/HRS                       LIST         NET         TOTAL
+CAUSE: INFLATED ALL TIRES TO FACTORY SPECIFICATIONS: _____ _____ ____
+        ____ _____
+     TIREPRESSURE INSP & INFLATE TIRE PRESS TO FACT.
+          SPECIFICATIONS: RH FR ___ psi LH FR ___ psi
+          RH RR ___psi LH RR ___ psi
+              404   CT 0.00 0.00        0       0                   0.00      0.00
+ VERSION 1 (EMP# 404,21AUG21 08:33): 0 INFLATED ALL TIRES TO FACTORY
+ SPECIFICATIONS: ____ ___ ___ ____ ______
+E** CHECK BATTERY. NEEDED JUMP TO START.
+     190011 BATTERY
+              404 CTEC 0.50 0.50      600    8418                  84.18    84.18
+        1 00544-H5061-540
+        TRUESTART H5 (EN)           11011   18287     0 182.87    182.87   182.87
+        1 BT1 BATTERY STATE FEE         0     100          1.00     1.00      1.00
+     190011A BATTERY COMB: BATTERY
+              404 CTEC 0.00 0.00        0       0                   0.00      0.00
+ VERSION 1 (EMP# 404,23AUG21 12:42): 0 TECHNICIAN CONFIRMED
+ CUSTOMER'S CONCERN, INSPECTED CHARGING SYSTEM - ALT. OUTPUT ___ ___
+ VOLTS. BATTERY VOLTAGE ___ ___ / / REPLACED BATTERY, CLEANED BATTERY
+ TERMINALS, INSTALLED ANTI-CORROSIVE MATERIAL. RE- TESTED VEHICLE -
+ STARTING OK.
+ VERSION 2 (EMP# 459,13SEP21 10:26): 23336 SHORTED BATTERY, CODE #
+ DCAH8G6Q12G52G TECHNICIAN CONFIRMED CUSTOMER'S CONCERN, INSPECTED
+ CHARGING SYSTEM - ALT. OUTPUT ___ ___ VOLTS. BATTERY VOLTAGE ___ ___ /
+ / REPLACED BATTERY, CLEANED BATTERY TERMINALS, INSTALLED ANTI-CORROSIVE
+ MATERIAL. RE- TESTED VEHICLE -
+                                   OUR SERVICE STAFF WOULD LIKE TO THANK YOU FOR
+                                   YOUR BUSINESS. CURRENT AAA MEMBERS RECEIVE
+                                   2 YEARS OR 24,000 MILES WARRANTY ON REPAIRS.
+                                   WE APPRECIATE YOUR FEEDBACK. IF IN ANY WAY
+                                   WE FALL SHORT OF EXCEPTIONAL WE WOULD LIKE TO
+                                   CORRECT IT IMMEDIATELY. PLEASE CONTACT ANY OF
+                                   OUR MANAGEMENT STAFF PRIOR TO LEAVING TODAY.
+                               HOURS                                                 STATEMENT OF DISCLAIMER                        DESCRIPTION              TOTALS
+              OPEN 7:00AM - 10:00PM MONDAY - FRIDAY
+                                                                                     The factory warranty constitutes all     LABOR AMOUNT
+                    SATURDAY 8:00AM - 5:00PM                                         of the warranties with respect to
+  ON BEHALF OF SERVICING DEALER, I HEREBY CERTIFY THAT THE                           the sale of this item\items. The         PARTS AMOUNT
+                                                                                     Seller hereby expressly disclaims all
+  INFORMATION CONTAINED HEREON IS ACCURATE UNLESS OTHERWISE                          warranties     either   express   or     GAS, OIL, LUBE
+  SHOWN. SERVICES DESCRIBED WERE PERFORMED AT NO CHARGE TO                           implied, including any implied
+  OWNER. THERE WAS NO INDICATION FROM THE APPEARANCE OF THE                          warranty of merchantability or           SUBLET AMOUNT
+  VEHICLE OR OTHERWISE, THAT ANY PART REPAIRED OR REPLACED                           fitness for a particular purpose.        MISC. CHARGES
+  UNDER THIS CLAIM HAD BEEN CONNECTED IN ANY WAY WITH ANY                            Seller    neither     assumes    nor
+                                                                                     authorizes any other person to           TOTAL CHARGES
+  ACCIDENT, NEGLIGENCEOR MISUSE. RECORDSSUPPORTING THIS CLAIM                        assume for it any liability in
+  ARE AVAILABLE FOR (1) YEAR FROM THE DATE OF PAYMENT                                connection with the sale of this         LESS INSURANCE
+  NOTIFICATION AT THE SERVICING DEALER FOR INSPECTION BY                             item/items.
+  MANUFACTURER'S REPRESENTATIVE.                                                                                              SALES TAX
+                                                                                     CUSTOMER SIGNATURE
+                                                                                                                              PLEASE PAY
+      (SIGNED)             DEALER, GENERAL MANAGER OR AUTHORIZED PERSON   (DATE)                                              THIS AMOUNT
+
+
+
+Copyright 2000 ADP, Inc.   SERVICE INVOICE #2 XSI2C                       ACCOUNTING COPY
+
+                                                                                                                                   TOYOTA · SCION
+CUSTOMER #: 527471                                                                          902589                                      OF
+UNIT# 854                                                                                                                            GLENDALE
+                                                                                         ACCOUNTING
+KINTO SHARE # 854                                                                                                        1260 S. Brand Blvd · Glendale, California 91204
+                                                                                                                            (818) 244-4196 · FAX (818) 241-5771
+1260 S BRAND BL                                                                                                                   www.ToyotaofGlendale.com
+GLENDALE, CA 91204                                                                            PAGE 3                               www.ScionofGlendale.com
+HOME:818-244-4196 CONT:818-244-4196                                                                                       BAR# AJ201469             EPA# CAD981441975
+BUS:               CELL:                                                             SERVICE ADVISOR: 459 PETER ATMAJIAN
+         COLOR                     YEAR               MAKE/MODEL                                 VIN                           LICENSE          MILEAGE IN / OUT       TAG
+
+                                     18          TOYOTA CAMRY HYBRID                4T1B21HK6JU507893 8DQB783                                   23336/23338          T2638
+      DEL. DATE                    PROD. DATE         WARR. EXP.        PROMISED                    PO NO.                    RATE          PAYMENT           INV. DATE
+
+28MAY18 DD                                                           19:00 30SEP21                                            165.00       TEC            13SEP21
+             R.O. OPENED                                READY           OPTIONS: ENG:2.5_Liter
+11:28 20AUG21 10:27 13SEP21
+LINE OPCODE TECH TYPE A/HRS S/HRS                                                                                             LIST                 NET                 TOTAL
+
+    DATE                             START            FINISH       DURATION    TYPE         TECH                LINE(S)              CHG
+08-20-21                             15:46             22:01           6.25       W            404                    B
+08-21-21                             08:18             08:33           0.25       W            404                    B
+                                     08:33             08:33           0.00       W            404                    C
+                                     08:33             08:33           0.00       W            404                    D
+08-23-21                             12:42             12:42           0.00       W            404                    E
+ACCOUNT                           SALE                 COST            CONTROL           ACCOUNT                   SALE               COST              CONTROL
+4400                               41418                 3000                            4460                      100000             100000
+4700                               20746                12491                            3250                         100                  0
+3140                                2137                    0                            2244                      164401            *******
+
+
+
+
+                     COST, SALE, & COMP TOTALS                             115491           162264                      0
+                               HOURS                                                  STATEMENT OF DISCLAIMER                        DESCRIPTION              TOTALS
+              OPEN 7:00AM - 10:00PM MONDAY - FRIDAY
+                    SATURDAY 8:00AM - 5:00PM
+                                                                                      The factory warranty constitutes all
+                                                                                      of the warranties with respect to
+                                                                                                                               LABOR AMOUNT                 414.18
+  ON BEHALF OF SERVICING DEALER, I HEREBY CERTIFY THAT THE                            the sale of this item\items. The
+                                                                                      Seller hereby expressly disclaims all
+                                                                                                                               PARTS AMOUNT                 207.46
+  INFORMATION CONTAINED HEREON IS ACCURATE UNLESS OTHERWISE                           warranties     either   express   or     GAS, OIL, LUBE                 0.00
+  SHOWN. SERVICES DESCRIBED WERE PERFORMED AT NO CHARGE TO                            implied, including any implied
+  OWNER. THERE WAS NO INDICATION FROM THE APPEARANCE OF THE                           warranty of merchantability or           SUBLET AMOUNT               1000.00
+  VEHICLE OR OTHERWISE, THAT ANY PART REPAIRED OR REPLACED                            fitness for a particular purpose.
+  UNDER THIS CLAIM HAD BEEN CONNECTED IN ANY WAY WITH ANY                             Seller    neither     assumes    nor
+                                                                                                                               MISC. CHARGES                  1.00
+                                                                                      authorizes any other person to
+  ACCIDENT, NEGLIGENCEOR MISUSE. RECORDSSUPPORTING THIS CLAIM                         assume for it any liability in
+                                                                                                                               TOTAL CHARGES               1622.64
+  ARE AVAILABLE FOR (1) YEAR FROM THE DATE OF PAYMENT
+  NOTIFICATION AT THE SERVICING DEALER FOR INSPECTION BY
+                                                                                      connection with the sale of this
+                                                                                      item/items.
+                                                                                                                               LESS INSURANCE              1644.01
+  MANUFACTURER'S REPRESENTATIVE.                                                                                               SALES TAX                     21.37
+                                                                                      CUSTOMER SIGNATURE
+                                                                                                                               PLEASE PAY
+      (SIGNED)             DEALER, GENERAL MANAGER OR AUTHORIZED PERSON    (DATE)                                              THIS AMOUNT                         0.00
+
+Copyright 2000 ADP, Inc.   SERVICE INVOICE #2 XSI2C                           ACCOUNTING COPY
+
